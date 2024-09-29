@@ -22,10 +22,6 @@ This project presents the current and future trends in programming languages and
 - Future technology trends
 - Demographics of the analyzed data
 
-**Key Findings:**
-- Top programming languages: **Go, Python, Shell, HTML/CSS**
-- Top databases: **PostgreSQL, MongoDB, MySQL**
-
 ## Introduction
 
 The analysis is based on data from the Stack Overflow Developer 2019 Survey and focuses on answering the following key questions:
